@@ -1,4 +1,4 @@
-Song Ye Beom, 202302019, Computer Engineering
+송예범, 202302019, 컴퓨터공학과
 
 import time, random
 
@@ -39,3 +39,4 @@ print(after1 - before1)
 print(after2 - before2)
 
 # 두 함수의 수행시간 출력
+
