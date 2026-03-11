@@ -1,3 +1,5 @@
+Song Ye Beom, 202302019, Computer Engineering
+
 import time, random
 
 def prefixSum1(X, n):
@@ -35,4 +37,5 @@ after2 = time.process_time()
 
 print(after1 - before1)
 print(after2 - before2)
+
 # 두 함수의 수행시간 출력
